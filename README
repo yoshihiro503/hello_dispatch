@@ -1,0 +1,10 @@
+BUILD
+=====
+
+        $ sbt compile
+
+
+RUN
+===
+
+        $ sbt run
